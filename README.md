@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debankar-123
 - 👀 I’m interested in s/w Development
-- 🌱 I’m currently learning DSA , JAVA
+- 🌱 I’m currently working on  DSA , JAVA,Salesforce
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me debankaraju@gmail.com
 
